@@ -1,13 +1,13 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.9;
 
-/*
 
-telegram: https://t.me/ZkLocks
-X/twitter: https://x.com/teamzklock?s=21&t=T8W_knSvMoKPqHJ1bzIWsw
-website: https://www.zklock.io/
+//Socials:
+//telegram: https://t.me/ZkLocks
+//twitter: https://twitter.com/TeamZkLock
+//website: https://www.zklock.io/
 
-*/
+
 
 // File @openzeppelin/contracts/utils/Context.sol@v4.8.1
 
